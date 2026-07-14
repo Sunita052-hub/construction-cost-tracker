@@ -18,7 +18,7 @@ Revise estimation methodology for Material costs specifically, since this catego
 
 ## Files
 - `Construction_Cost_Dashboard.pbix` — Power BI dashboard file
-- `Screenshot 2026-07-15 022612.png` — Preview image
+- `dashboard_screenshot.png` — Preview image
 
 ## Skills Demonstrated
 - Data Structuring & Cleaning (Excel)
